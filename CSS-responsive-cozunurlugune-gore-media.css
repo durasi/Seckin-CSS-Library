@@ -1,0 +1,12 @@
+/*
+2019-09-26
+www.seckin.co
+Seçkin Durası 
+https://github.com/durasi/CSS-Kutuphanesi
+ */
+@media only screen and (max-width: 400px)
+{
+	.mobildekapali{
+	 display: none;
+	}
+}
