@@ -1,2 +1,2 @@
-# CSSKutuphanesi
-Herkesin faydalanması için CSS kütüphanemi paylaşıyorum.
+# Seckin-CSS-Library
+I share my Wordpress library for everyone to use.
