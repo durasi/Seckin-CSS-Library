@@ -1,0 +1,60 @@
+/*
+//2021-03-17
+//www.seckin.co
+//Seçkin Durası 
+//https://github.com/durasi/Seckin-CSS-Library
+*/
+
+			body {padding: 0px!important;overflow-y: hidden!important;}
+			::-webkit-scrollbar {display: none!important;}
+			
+		
+			@media print 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1537px) {
+			    	body {
+					    zoom: 52%;
+					    -webkit-print-color-adjust: exact;
+					}
+					@page {
+					    margin: 0;
+					    size: A4;
+					}
+			}
+			@media print 
+  and (min-device-width: 1538px) 
+  and (max-device-width: 1690px) {
+			    	body {
+					    zoom: 48%;
+					    -webkit-print-color-adjust: exact;
+					}
+					@page {
+					    margin: 0;
+					    size: A4;
+					}
+			}
+			@media print 
+  and (min-device-width: 1691px) 
+  and (max-device-width: 1921px) {
+			    	body {
+					    zoom: 42%;
+					    -webkit-print-color-adjust: exact;
+					}
+					@page {
+					    margin: 0;
+					    size: A4;
+					}
+			}
+			@media print 
+  and (min-device-width: 1922px) 
+  and (max-device-width: 2050px) {
+			    	body {
+					    zoom: 32%;
+					    -webkit-print-color-adjust: exact;
+					}
+					@page {
+					    margin: 0;
+					    size: A4;
+					}
+			}
+		
